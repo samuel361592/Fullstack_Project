@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/samuel361592/NestJS_backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/samuel361592/NextJS_frontend.git
